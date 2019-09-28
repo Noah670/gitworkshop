@@ -1,2 +1,2 @@
 # gitworkshop
-## Hackathon git workshop
+ Hackathon git workshop
